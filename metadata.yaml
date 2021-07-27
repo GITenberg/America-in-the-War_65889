@@ -1,0 +1,23 @@
+_repo: America-in-the-War_65889
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Raemaekers, Louis
+    birthdate: 1869
+    deathdate: 1956
+    gutenberg_agent_id: '4533'
+    url: http://www.gutenberg.org/2009/agents/4533
+    wikipedia: https://en.wikipedia.org/wiki/Louis_Raemaekers
+description: ''
+gutenberg_issued: '2021-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65889'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: America in the War
+url: http://www.gutenberg.org/ebooks/65889
